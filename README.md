@@ -1,4 +1,4 @@
-  # YGS-AHK-Autocorrect
+  # YGS AHK Autocorrect Script
   Hello Jack's Squad if you'd like to help compile this into a usable autocorrect script that jack could
   one day link to that would be great so any help is appreciated anyhow
 
